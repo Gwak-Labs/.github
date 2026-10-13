@@ -6,7 +6,6 @@
   <b>A small product studio in Thailand.</b><br>
   สตูดิโอเล็กๆ ในประเทศไทย ที่ทำซอฟต์แวร์ให้ร้านค้าขายของได้ง่ายขึ้น
 </p>
----
 
 ## 🐾 What we make
 
